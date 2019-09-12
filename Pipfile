@@ -9,6 +9,12 @@ verify_ssl = true
 torch = "*"
 torchvision = "*"
 pytorch-lightning = "*"
+pillow = "*"
+numpy = "*"
+matplotlib = "*"
+tensorboard = "*"
+jupyter = "*"
+jupyterlab = "*"
 
 [requires]
 python_version = "3.7"
