@@ -16,6 +16,8 @@ tensorboard = "*"
 jupyter = "*"
 jupyterlab = "*"
 tqdm = "*"
+opencv-python = "*"
+tensorflow-gpu = "*"
 
 [requires]
 python_version = "3.7"
